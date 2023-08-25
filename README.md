@@ -1,15 +1,17 @@
 # Key Finder Project - Relational Algebra
-
+![Project Demo](images/demo.gif)
 Welcome to the **Key Finder** project! This is a web-based application that allows users to interact with relational algebra concepts. Whether you're a student studying databases or simply curious about how relational algebra works, this project provides an interactive platform to explore and practice these concepts.
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
+- [Key Finder Project - Relational Algebra](#key-finder-project---relational-algebra)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Technologies Used](#technologies-used)
+  - [Contributing](#contributing)
 
 ## Demo
 
